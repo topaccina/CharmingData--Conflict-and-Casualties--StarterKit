@@ -1,6 +1,6 @@
 # CharmingData--Conflict-and-Casualties--StarterKit
 Highlight civilian casualties in violent conflicts  -Data Prep, EDA , test features - Starter Kit for Charming Data July project 2024.
-Jupyter notebooks and input data to prepare the final dataset.
+Jupyter notebooks and input data to prepare the final dataset. Data from Uppsala Conflict Data Program. Focus on 2024 Jan-May data only.
 1. notebooks/DataPrep.ipynb
    1. Data retrieval from the web ([https://ucdp.uu.se/downloads/](https://ucdp.uu.se/downloads/index.html#candidate))
    2. Data cleansing
